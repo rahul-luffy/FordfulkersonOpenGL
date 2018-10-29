@@ -63,6 +63,7 @@ void random()
 
 }
 
+
 void drawCircle(GLfloat x, GLfloat y, GLfloat radius, GLfloat x1, GLfloat y1, GLfloat z1)
 {
 	int i;
